@@ -2,6 +2,12 @@
   "name": "eslint-config-het",
   "version": "1.0.0",
   "description": "Het‘s ESLint config",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "javascript style",
+    "het"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",

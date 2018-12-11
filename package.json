@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/ChaoyaoYe/eslint-config-het"
   },
-  "author": "zhcyy  董小yuan  叶超尧 <823499823@qq.com>",
+  "author": "zhcyy、董小yuan、叶超尧 <823499823@qq.com>",
   "license": "MIT",
   "dependencies": {
     "eslint-config-airbnb": "^17.1.0",

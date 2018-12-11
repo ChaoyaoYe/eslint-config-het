@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-het",
+  "version": "1.0.0",
+  "description": "Het‘s ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaoyaoYe/eslintConfigHet.git"
+  },
+  "author": "zhcyy  董小yuan  叶超尧 <823499823@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-compat": "^2.6.3"
+  },
+  "peerDependencies": {
+    "eslint": "^3.0.0 || ^4.0.0 || ^5.0.0"
+  }
+}

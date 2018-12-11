@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChaoyaoYe/eslintConfigHet.git"
+    "url": "git+https://github.com/ChaoyaoYe/eslint-config-het"
   },
   "author": "zhcyy  董小yuan  叶超尧 <823499823@qq.com>",
   "license": "MIT",
